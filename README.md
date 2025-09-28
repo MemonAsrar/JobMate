@@ -16,11 +16,11 @@ JobMate is a web-based platform designed to help job seekers and employers conne
   - Admin panel for managing users and job listings.
   - Responsive UI using Bootstrap.
 
----
+```bash
 
 ## Installation / Setup and Git Commands (All in One)
 
-```bash
+
 
 # 1. Set up the database
 # - Create a MySQL database (jobmate)
