@@ -16,17 +16,18 @@ JobMate is a web-based platform designed to help job seekers and employers conne
   - Admin panel for managing users and job listings.
   - Responsive UI using Bootstrap.
 
-```bash
-
-## Installation / Setup and Git Commands (All in One)
-
-
+## JobMate Project: Installation / Setup
 
 # 1. Set up the database
-# - Create a MySQL database (jobmate)
-# - Import the provided jobmate(SQL) file
+# -----------------------
+# - Create a MySQL database named 'jobmate'
+# - Import the provided jobmate.sql file
 # - Update database credentials in config.php
 
-# 2. Start a local server (XAMPP, WAMP, or LAMP)
-# - Place the project folder in htdocs (for XAMPP/WAMP)
-# - Open the project in a browser: http://localhost/JobMate
+# 2. Start a local server
+# -----------------------
+# - Use XAMPP, WAMP, or LAMP
+# - Place the project folder in 'htdocs' (XAMPP/WAMP)
+# - Open the project in a browser:
+#   http://localhost/JobMate
+
