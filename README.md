@@ -19,7 +19,7 @@ JobMate is a web-based platform designed to help job seekers and employers conne
 ## JobMate Project: Installation / Setup
 
 # 1. Set up the database
-# -----------------------
+# ----------------------
 # - Create a MySQL database named 'jobmate'
 # - Import the provided jobmate.sql file
 # - Update database credentials in config.php
@@ -27,7 +27,7 @@ JobMate is a web-based platform designed to help job seekers and employers conne
 # 2. Start a local server
 # -----------------------
 # - Use XAMPP, WAMP, or LAMP
-# - Place the project folder in 'htdocs' (XAMPP/WAMP)
+# - Place the project folder in 'htdocs' (XAMPP/WAMP) or web root (LAMP)
 # - Open the project in a browser:
 #   http://localhost/JobMate
 
